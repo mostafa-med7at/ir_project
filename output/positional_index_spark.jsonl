@@ -1,0 +1,28 @@
+{"term": "academic", "df": 2, "postings": [{"doc_id": "d7", "positions": [1]}, {"doc_id": "d10", "positions": [1]}]}
+{"term": "analysis", "df": 2, "postings": [{"doc_id": "d8", "positions": [10]}, {"doc_id": "d10", "positions": [3]}]}
+{"term": "and", "df": 3, "postings": [{"doc_id": "d4", "positions": [6]}, {"doc_id": "d7", "positions": [6]}, {"doc_id": "d8", "positions": [8]}]}
+{"term": "assessment", "df": 4, "postings": [{"doc_id": "d3", "positions": [2]}, {"doc_id": "d5", "positions": [4]}, {"doc_id": "d8", "positions": [2, 4]}, {"doc_id": "d10", "positions": [9]}]}
+{"term": "classroom", "df": 3, "postings": [{"doc_id": "d4", "positions": [1]}, {"doc_id": "d6", "positions": [1]}, {"doc_id": "d10", "positions": [7]}]}
+{"term": "courses", "df": 1, "postings": [{"doc_id": "d5", "positions": [6]}]}
+{"term": "data", "df": 1, "postings": [{"doc_id": "d8", "positions": [9]}]}
+{"term": "digital", "df": 1, "postings": [{"doc_id": "d9", "positions": [8]}]}
+{"term": "education", "df": 1, "postings": [{"doc_id": "d9", "positions": [9]}]}
+{"term": "engagement", "df": 3, "postings": [{"doc_id": "d2", "positions": [5]}, {"doc_id": "d4", "positions": [5]}, {"doc_id": "d10", "positions": [6]}]}
+{"term": "improve", "df": 2, "postings": [{"doc_id": "d3", "positions": [4]}, {"doc_id": "d8", "positions": [6]}]}
+{"term": "learning", "df": 8, "postings": [{"doc_id": "d1", "positions": [2]}, {"doc_id": "d2", "positions": [2]}, {"doc_id": "d3", "positions": [5]}, {"doc_id": "d4", "positions": [7]}, {"doc_id": "d5", "positions": [2, 9]}, {"doc_id": "d7", "positions": [7]}, {"doc_id": "d9", "positions": [2, 6]}, {"doc_id": "d10", "positions": [8]}]}
+{"term": "measures", "df": 1, "postings": [{"doc_id": "d10", "positions": [4]}]}
+{"term": "methods", "df": 3, "postings": [{"doc_id": "d3", "positions": [3]}, {"doc_id": "d6", "positions": [3]}, {"doc_id": "d8", "positions": [5]}]}
+{"term": "online", "df": 4, "postings": [{"doc_id": "d1", "positions": [1]}, {"doc_id": "d2", "positions": [1]}, {"doc_id": "d5", "positions": [1, 5, 8]}, {"doc_id": "d9", "positions": [1]}]}
+{"term": "outcomes", "df": 4, "postings": [{"doc_id": "d4", "positions": [8]}, {"doc_id": "d7", "positions": [8]}, {"doc_id": "d9", "positions": [7]}, {"doc_id": "d10", "positions": [10]}]}
+{"term": "performance", "df": 2, "postings": [{"doc_id": "d7", "positions": [2]}, {"doc_id": "d10", "positions": [2]}]}
+{"term": "platforms", "df": 1, "postings": [{"doc_id": "d9", "positions": [3]}]}
+{"term": "progress", "df": 1, "postings": [{"doc_id": "d7", "positions": [5]}]}
+{"term": "reflects", "df": 1, "postings": [{"doc_id": "d7", "positions": [3]}]}
+{"term": "research", "df": 1, "postings": [{"doc_id": "d8", "positions": [7]}]}
+{"term": "student", "df": 8, "postings": [{"doc_id": "d2", "positions": [4]}, {"doc_id": "d3", "positions": [1]}, {"doc_id": "d4", "positions": [4]}, {"doc_id": "d5", "positions": [3]}, {"doc_id": "d7", "positions": [4]}, {"doc_id": "d8", "positions": [1, 3]}, {"doc_id": "d9", "positions": [5]}, {"doc_id": "d10", "positions": [5]}]}
+{"term": "support", "df": 3, "postings": [{"doc_id": "d5", "positions": [7]}, {"doc_id": "d6", "positions": [4]}, {"doc_id": "d9", "positions": [4]}]}
+{"term": "supports", "df": 2, "postings": [{"doc_id": "d2", "positions": [3]}, {"doc_id": "d4", "positions": [3]}]}
+{"term": "systems", "df": 1, "postings": [{"doc_id": "d9", "positions": [10]}]}
+{"term": "teacher", "df": 1, "postings": [{"doc_id": "d6", "positions": [5]}]}
+{"term": "teaching", "df": 2, "postings": [{"doc_id": "d4", "positions": [2]}, {"doc_id": "d6", "positions": [2]}]}
+{"term": "training", "df": 1, "postings": [{"doc_id": "d6", "positions": [6]}]}
